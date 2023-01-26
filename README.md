@@ -1,6 +1,6 @@
 # Node.js + React Integrations Page example
 
-Example of Integrations List Page that you can build in your app using Integration.app React components and Node.js backend.
+Complete code example of displaying list of external apps that your users can connect to. The connection can then be used to run integrations.
 
 ## Installation
 
