@@ -1,4 +1,4 @@
-# Node.js + React Integrations Page example
+# Python + React Integrations Page example
 
 Complete code example of displaying list of external apps that your users can connect to. The connection can then be used to run integrations.
 
